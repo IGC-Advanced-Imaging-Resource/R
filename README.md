@@ -1,2 +1,2 @@
 # R
-R Scripts written for users of the IGMM AIR facility.
+R Scripts written for users of the IGC AIR facility.
